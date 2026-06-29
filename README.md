@@ -136,11 +136,15 @@ The Excel workbook `Data and Charts.xlsx` contains supporting data and charts fo
 │   └── ICG Credit Catalyst Vedika Yadav Market Entry Plan.pdf
 └── images/
     └── charts/
+        ├── competitive-positioning.png
         ├── domestic-credit-trend.png
-        ├── credit-growth-comparison.png
-        ├── msme-sector-distribution.png
+        ├── go-to-market-strategy.png
+        ├── msme-actionable-solutions.png
+        ├── msme-broader-impact-of-challenges.png
         ├── msme-credit-gap.png
-        └── go-to-market-strategy.png
+        ├── msme-sector-distribution.png
+        ├── msme-share-of-gdp.png
+        └── msme-urban-rural-distribution.png
 
 ```
 

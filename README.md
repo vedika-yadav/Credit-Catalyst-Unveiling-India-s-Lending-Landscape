@@ -152,4 +152,4 @@ The Excel workbook `Data and Charts.xlsx` contains supporting data and charts fo
 ## Author
 
 **Vedika Yadav**  
-Project: ICG - IITK Winter Project, 2024
+Project: ICG - Credit Catalyst: Unveiling India's Credit Landscape Winter Project, 2024

@@ -96,14 +96,14 @@ The competitor set includes public and private banks, regional rural banks, NBFC
 - Lower interest rates
 - Digital education support
 
-![Competitive positioning](assets/charts/competitive-positioning.png)
+![Competitive positioning](images/charts/competitive-positioning.png)
 
 
 ### Go-To-Market Strategy
 
 The plan outlines a four-stage go-to-market approach:
 
-![Go-to-market strategy](assets/charts/go-to-market-strategy.png)
+![Go-to-market strategy](images/charts/go-to-market-strategy.png)
 
 
 ## Data and Charts
